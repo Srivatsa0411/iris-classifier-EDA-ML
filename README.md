@@ -52,7 +52,7 @@ To understand the relationships between features and target species, we explored
 ![Pairplot](images/pairplot.png)
 
 ### Confusion Matrix (Final Model)
-![Confusion Matrix](images/confusion_matrix_final.png)
+![Correclation Matrix](images/coorelation_matrix.png)
 
 ---
 
