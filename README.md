@@ -30,17 +30,29 @@ iris-classifier/
 
 ---
 
-## 🔍 What’s in the Notebook?
+## 🔍 Exploratory Data Analysis (EDA)
 
-The notebook walks through:
-- Data exploration with histograms, pairplots, and boxplots
-- Feature engineering experiments like:
-  - Petal-only models
-  - Polynomial and interaction terms
-  - PCA
-  - Decision trees
-- Regularization tuning with different `C` values
-- Cross-validation to compare all models fairly
+To understand the relationships between features and target species, we explored:
+
+- **Distribution plots**: For sepal and petal dimensions
+- **Boxplots**: To analyze feature spread and outliers by class
+- **Pairplot**: To visually assess how well-separated the classes are
+
+---
+
+## 📷 Visualizations
+
+### Feature Distributions
+![Distributions](images/distribution_all_features.png)
+
+### Boxplots by Species
+![Boxplot](images/boxplot.png)
+
+### Pairplot
+![Pairplot](images/pairplot.png)
+
+### Confusion Matrix (Final Model)
+![Confusion Matrix](images/confusion_matrix_final.png)
 
 ---
 
