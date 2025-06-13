@@ -10,7 +10,8 @@ It started as a simple logistic regression model and evolved into a full experim
 
 ```
 iris-classifier/
-├── data/                    # (Optional for storing datasets)
+├── data/
+├── images/                    
 ├── notebooks/
 │   └── iris_classification.ipynb  # EDA + experiments in one notebook
 ├── src/
@@ -118,6 +119,6 @@ This project was a deep dive into:
 
 ## 👋 About Me
 
-I'm **Srivatsa**, a master's student in Informatics with a focus on machine learning and reproducible data science. This project is part of my hands-on portfolio exploring real-world ML workflows.
+I'm **Srivatsa**, a data and AI enthusiast with a master's degree in Informatics at Penn State, specializing in machine learning and reproducible data science. This project is part of my hands-on portfolio exploring real-world ML workflows and building clean, interpretable models from start to finish.
 
 Thanks for checking it out!
